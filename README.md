@@ -1,70 +1,74 @@
-# Hi!👋 I'm SuperrZiroo
+# Hi! 👋 I'm Raff
+
+> *Student of SMKN 8 Bekasi City.*
 
 ---
 
-## About Me
-I'm SuperrZirooo, a vocational high school student with a strong interest in technology and systems-level work. I'm currently focused on learning the Linux environment, basic networking, and cyber security fundamentals. I'm also interested in web-related technologies and open source projects.
+## 🚀 About Me
 
-I enjoy exploring how systems work behind the scenes, experimenting through the terminal, and learning by taking things apart and rebuilding them. In my free time, I enjoy gaming and tinkering with various technical things, especially programming and system configuration.
+I’m Raff, a vocational high school student with a keen interest in technology.
 
----
+I enjoy exploring how systems work behind the scenes, rooting my Android device, and experimenting via the terminal.
 
-## Purpose
-- **Short-term**: Learn more about Linux, networking, and basic security knowledge  
-- **Mid-term**: Learn and use common cybersecurity tools and scripting (e.g., Python for automation)  
-- **Long-term**: Build a solid foundation to pursue a career in cybersecurity  
+I also like gaming, listening to music, reading manga and manhwa, and watching movies or anime.
 
 ---
 
-## Focus Areas
-- Linux system and command line
-- Networking basics (e.g., TCP/IP, subnetting)
-- Cybersecurity fundamentals (e.g., encryption, ethical hacking)
-- Python (for scripting and automation)
+## 🌱 Currently Learning
+
+- 🐍 Python automation
+- 🛠️ Bash Scripting
+- 🐧 Linux System
+- 🌐 Networking
+- 🔐 Cyber Security Fundamentals
+
 
 ---
 
-## Skills & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,git,github&theme=dark"/>
-</p>
+# 💻 Tech Stack
 
-### Security Tools
-- John the Ripper (password cracking)
-- Nmap (network scanning)
-- Wireshark (packet analysis)
-- Hydra (brute-force attacks)
+### 🖥️ Programming & Scripting
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### Learning Resources
-- [Cybrary](https://www.cybrary.it/)
-- [TryHackMe](https://tryhackme.com/)
-- [Python Docs](https://docs.python.org/3/)
-- [Youtube](https://youtube.com/)
+### 💻 Operating System & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
----
+### 🔐 Cyber Security
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-CC0000?style=for-the-badge&logoColor=white)
 
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuperrZirooo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperrZirooo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
+### 🎨 Creative Tools
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
+![Alight Motion](https://img.shields.io/badge/Alight_Motion-00C853?style=for-the-badge&logoColor=white)
 
 ---
 
-## Principles
-- Learn by doing
-- Understand systems before using tools
-- Keep improving step by step
+# 📊 GitHub Stats
 
-<p align="center">
-  <sub>Learning cybersecurity, one system at a time. 🔒</sub>
-</p>
+![](https://github-readme-stats.shion.dev/api?username=Raffxzr&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Raffxzr&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-## Connect with Me
-- [GitHub](https://github.com/SuperrZirooo)
-- [Telegram](https://t.me/Superr_Ziroo)
+## 📈 Profile Views
+
+![](https://komarev.com/ghpvc/?username=Raffxzr&style=for-the-badge&color=blue)
+
+---
+
+## 🤝 Connect with Me
+
+- GitHub : github.com/Raffxzr
+- Telegram : t.me/Superr_Ziroo
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and follow my learning journey.*
