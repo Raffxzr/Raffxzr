@@ -66,8 +66,8 @@ I also like gaming, listening to music, reading manga and manhwa, and watching m
 
 ## 🤝 Connect with Me
 
-- GitHub : github.com/Raffxzr
-- Telegram : t.me/Superr_Ziroo
+- [GitHub](https://github.com/SuperrZirooo)
+- [Telegram](https://t.me/Superr_Ziroo)
 
 ---
 
