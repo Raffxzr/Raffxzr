@@ -22,7 +22,6 @@ I also like gaming, listening to music, reading manga and manhwa, and watching m
 - 🌐 Networking
 - 🔐 Cyber Security Fundamentals
 
-
 ---
 
 # 💻 Tech Stack
@@ -39,6 +38,8 @@ I also like gaming, listening to music, reading manga and manhwa, and watching m
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Cisco](https://img.shields.io/badge/cisco-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik-222222?style=for-the-badge&logoColor=white)
 
 ### 🔐 Cyber Security
 ![John the Ripper](https://img.shields.io/badge/John_the_Ripper-CC0000?style=for-the-badge&logoColor=white)
@@ -52,22 +53,16 @@ I also like gaming, listening to music, reading manga and manhwa, and watching m
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=Raffxzr&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.shion.dev/api?username=Rafaarsya&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Raffxzr&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## 📈 Profile Views
-
-![](https://komarev.com/ghpvc/?username=Raffxzr&style=for-the-badge&color=blue)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rafaarsya&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
 ## 🤝 Connect with Me
 
-- [GitHub](https://github.com/SuperrZirooo)
-- [Telegram](https://t.me/Superr_Ziroo)
+- [GitHub](https://github.com/Rafaarsya)
+- [Telegram](https://t.me/Raffxzr)
 
 ---
 
