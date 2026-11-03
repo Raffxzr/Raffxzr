@@ -61,7 +61,7 @@ I also like gaming, listening to music, reading manga and manhwa, and watching m
 
 ## 🤝 Connect with Me
 
-- [GitHub](https://github.com/Rafaarsya)
+- [GitHub](https://github.com/Raffxzr)
 - [Telegram](https://t.me/Raffxzr)
 
 ---
