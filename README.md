@@ -53,9 +53,9 @@ I also like gaming, listening to music, reading manga and manhwa, and watching m
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=Rafaarsya&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.shion.dev/api?username=Raffxzr&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rafaarsya&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Raffxzr&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
