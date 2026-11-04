@@ -17,10 +17,15 @@ I also like gaming, listening to music, reading manga and manhwa, and watching m
 ## 🌱 Currently Learning
 
 - 🐍 Python automation
+
 - 🛠️ Bash Scripting
+
 - 🐧 Linux System
+
 - 🌐 Networking
+
 - 🔐 Cyber Security Fundamentals
+
 
 ---
 
@@ -53,7 +58,7 @@ I also like gaming, listening to music, reading manga and manhwa, and watching m
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=Raffxzr&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.shion.dev/api?username=Raffxzr&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&custom_title=Raffxzr%20GitHub%20Stats)
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Raffxzr&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
@@ -62,7 +67,9 @@ I also like gaming, listening to music, reading manga and manhwa, and watching m
 ## 🤝 Connect with Me
 
 - [GitHub](https://github.com/Raffxzr)
+
 - [Telegram](https://t.me/Raffxzr)
+
 
 ---
 
